@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="action_light">Apply Light Theme</string>
+    <string name="action_dark">Apply Dark Theme</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="home_launch">Home Activity</string>
+    <string name="profile_launch">Profile Activity</string>
+    <string name="about_launch">About Activity</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Android Library</string>
+    <string name="language_change">Change Language</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome_title">Lohono Stays – Premium Villas - Ultra-Luxurious Home Rentals</string>
+
+
+    <string name="address_title">Address - 42A, Impression House, GD Ambekar Marg, Kohinoor Mill, Wadala, Mumbai, Maharashtra 400031</string>
+    <string name="contact_title">Contact - 084306 00600</string>
+    <string name="info_title">Info - Villa H is a part of Fonteira, a gated community inspired by traditional Goan Vaddos. Located in the quaint town of Assagaon, also known as the "Beverly Hills of Goa", the home is surrounded by lush greenery and adorned with luxury at every nook and corner. This 3-storey home features a naturally lit living and dining area, 3 ensuite bedrooms, a study, a gazebo and a self-sufficient kitchen for you to cook up a storm in.</string>
+    <string name="about_title">Lohono Stays specializes in creating and curating luxury holiday homes for rent all over the world. Tied in with our signature hospitality, the endeavour is to offer the most luxurious and comfortable holiday experiences to our guests with our private villas in Goa, Alibaug, Lonavala, Karjat, Mahabaleshwar, Mussoorie and Coonoor.</string>
+
+
+</resources>
